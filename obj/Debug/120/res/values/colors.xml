@@ -1,0 +1,5 @@
+<resources><!--Template colors 
+	<color name="colorPrimary">#2c3e50</color>
+	<color name="colorPrimaryDark">#1B3147</color>
+	<color name="colorAccent">#3498db</color>
+	--><!--Custom theme from the color pallette created--><color name="colorPrimary">#4db6ac</color><color name="primaryLightColor">#82e9de</color><color name="colorPrimaryDark">#00867d</color><color name="colorAccent">#26c6da</color><color name="secondaryLightColor">#6ff9ff</color><color name="secondaryDarkColor">#0095a8</color><color name="primaryTextColor">#37474f</color><color name="secondaryTextColor">#eceff1</color></resources>
